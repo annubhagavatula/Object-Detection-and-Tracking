@@ -1,5 +1,4 @@
 # Object-Detection-and-Tracking
-```markdown
 # 🎯 Object Detection & Tracking with YOLOv8 (VisDrone Dataset)
 
 This project uses **YOLOv8** to perform object detection on image sequences from the **VisDrone2019-VID** dataset.  
