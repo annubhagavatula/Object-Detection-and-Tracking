@@ -140,12 +140,6 @@ This means YOLO detects objects per frame independently. For continuous tracking
 
 ---
 
-## 📜 License
-
-This project is open-source under the [MIT License](LICENSE).
-
----
-
 ```
 
 If you want, I can also **include an ASCII art camera 🎥** at the top of this README so it looks visually catchy, just like a gaming project README.  
